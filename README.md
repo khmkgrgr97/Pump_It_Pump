@@ -2,10 +2,14 @@
 
 <img src='images/diagramma2.png' />
 
+---
+
 Папка `models` с обученными моделями находится по ссылке: https://drive.google.com/drive/folders/1BJjyH2QF2I5zjQpqtE3ofiP2VWs6Zw1D
 
 <div class="alert alert-info">
-
+    
+---
+    
 Данная работа основана на соревновании: **https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/**
     
 ---

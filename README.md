@@ -1,4 +1,4 @@
-# Pump_It_Pump
+# Pump_It_Up
     
 Данная работа основана на соревновании: **https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/**
 
